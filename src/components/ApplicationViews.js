@@ -29,9 +29,9 @@ class ApplicationViews extends Component {
 
     ownersFromAPI = [
     { id:1, name: "Jordan Rosas", phone:"514-747-9863"},
-    { id:1, name: "Nick Hensen", phone:"514-124-2345"},
-    { id:1, name: "Asia Carter", phone:"514-987-2386"},
-    { id:1, name: "Hunter Metts", phone:"514-264-9994"}
+    { id:2, name: "Nick Hensen", phone:"514-124-2345"},
+    { id:3, name: "Asia Carter", phone:"514-987-2386"},
+    { id:4, name: "Hunter Metts", phone:"514-264-9994"}
     ]
 
     state = {
